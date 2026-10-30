@@ -4,9 +4,11 @@
 
 ## HTML sivut
 
--[Kotisivu](index.html)
--[Tuote sivu](products.html)
--[Contact](contact.html)
+- [Kotisivu](index.html)
+
+- [Tuote sivu](products.html)
+
+- [Contact](contact.html)
 
 ## CSS sivut
 
