@@ -4,7 +4,7 @@
 
 ## HTML sivut
 
-- [Kotisivu](index.html)
+- [Kotisivu](home.html)
 
 - [Tuote sivu](products.html)
 
@@ -12,7 +12,7 @@
 
 ## CSS sivut
 
-- [styles.css](styles.css)
+- [styles.css](style.css)
 
 
 ## Kuvat

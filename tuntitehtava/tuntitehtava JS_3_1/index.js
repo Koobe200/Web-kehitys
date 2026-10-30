@@ -13,7 +13,9 @@ nimiprint = nimiprint.substring(0, nimiprint.length - 2);
 
 console.log(nimiprint);
 
-document.querySelector("#tulos").innerHTML =
+document.querySelector("#nimitulos").innerHTML =
 nimiprint
 
+document.querySelector("#vimalkio").innerHTML =
+nimet[nimet.length-1];
 
