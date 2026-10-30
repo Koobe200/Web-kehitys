@@ -4,7 +4,7 @@
 
 # Html & css sivu tehty
 
-linkki sivun readme:[first-website/readme.md]
+- [linkki sivun readme](first-website/readme.md)
 
 [Linkki JS-moduulin 1 kansiooni users.metropolia.fi-palvelussa](https://users.metropolia.fi/~username/js1-folder)
 
