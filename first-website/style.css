@@ -179,3 +179,28 @@ nav a{
 .grow:hover {
   transform: scale(1.1);
 }
+
+.container2{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  padding: 10px;
+}
+
+
+
+.hero2{
+    display: flex;
+    flex-flow:row wrap;
+    align-items: center;
+    justify-content: center;
+    margin:50px;
+    opacity: 0;
+    animation: fadeIn 1s forwards;
+}
+
+
+
+.container2 img{
+    width: 100%;
+    padding-bottom: 30px;
+}

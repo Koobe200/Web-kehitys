@@ -18,3 +18,5 @@
 ## Kuvat
 
 - [Kartta kuva](map.png) 
+
+- [Kuvakaappaukset](kuvat.html)
