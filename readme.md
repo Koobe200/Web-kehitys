@@ -34,4 +34,23 @@ moduuli 2 tehtävät
 
 ### JS-moduuli 3
 
+[Linkki JS-moduulin 3 tehtäviin](mod-tehtavat/tehtavat.html)
+[Linkki JS-moduulin 3 tehtäviin githubissa](https://github.com/Koobe200/Web-kehitys/tree/main/mod-tehtavat/mod3)
+
+Tehdyt tehtävät:
+
+- Tehtävä 1: 2 p
+- Tehtävä 2: 2 p
+- Tehtävä 3: 2 p
+- Tehtävä 4: 2 p
+- Tehtävä 5: 2 p
+- Tehtävä 6: 2 p
+- Tehtävä 7: 2 p
+- Tehtävä 8: 2 p
+- Tehtävä 9: 3 p
+- Tehtävä 10:8p
+
+
+**Yhteensä 27p**
+
 
