@@ -1,0 +1,10 @@
+let list = document.getElementById("target");
+let listItem = document.createElement('li');
+list.appendChild(listItem);
+listItem.innerText = "First item";
+let listItem2 = document.createElement('li');
+list.appendChild(listItem2);
+listItem2.innerText = "Second item";
+let listItem3 = document.createElement('li');
+list.appendChild(listItem3);
+listItem3.innerText ="Third item";
