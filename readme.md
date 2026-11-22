@@ -55,9 +55,10 @@ Tehdyt tehtävät:
 
 **Yhteensä 27p**
 
+### Js-moduuli 4
 
 - [Linkki JS-moduulin 4 tehtäviin](https://users.metropolia.fi/~koobes/mod-tehtavat/mod4/)
-- [Linkki JS-moduulin 4 tehtäviin githubissa](https://github.com/Koobe200/Web-kehitys/tree/main/mod-tehtavat/mod3)
+- [Linkki JS-moduulin 4 tehtäviin githubissa](https://github.com/Koobe200/Web-kehitys/tree/main/mod-tehtavat/mod4)
 
 Tehdyt tehtävät:
 
@@ -77,3 +78,12 @@ Tehdyt tehtävät:
 **Yhteensä 32p**
 
 
+### Js-moduuli 5
+
+- [Linkki JS-moduulin 5 tehtäviin](https://users.metropolia.fi/~koobes/mod-tehtavat/mod5/)
+- [Linkki JS-moduulin 5 tehtäviin githubissa](https://github.com/Koobe200/Web-kehitys/tree/main/mod-tehtavat/mod5)
+
+- Tehtävä 1: 4 p
+- Tehtävä 2: 10 p
+
+**Yhteensä 14p**
