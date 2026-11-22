@@ -83,7 +83,7 @@ Tehdyt tehtävät:
 - [Linkki JS-moduulin 5 tehtäviin](https://users.metropolia.fi/~koobes/mod-tehtavat/mod5/)
 - [Linkki JS-moduulin 5 tehtäviin githubissa](https://github.com/Koobe200/Web-kehitys/tree/main/mod-tehtavat/mod5)
 
-- Tehtävä 1: 4 p
-- Tehtävä 2: 10 p
+- [Tehtävä 1: 4 p - linkki render sivulle](https://web-kehitys.onrender.com//prime_number/9)
+- [Tehtävä 2: 10 p - linkki render sivulle](https://web-kehitys-1.onrender.com//translate/hei)
 
 **Yhteensä 14p**
