@@ -78,10 +78,10 @@ Tehdyt tehtävät:
 **Yhteensä 32p**
 
 
-### Js-moduuli 5
+### Python flask
 
-- [Linkki JS-moduulin 5 tehtäviin](https://users.metropolia.fi/~koobes/mod-tehtavat/mod5/)
-- [Linkki JS-moduulin 5 tehtäviin githubissa](https://github.com/Koobe200/Web-kehitys/tree/main/mod-tehtavat/mod5)
+- [Linkki python-flask tehtäviin](https://users.metropolia.fi/~koobes/mod-tehtavat/mod5/)
+- [Linkki python-flask tehtäviin githubissa](https://github.com/Koobe200/Web-kehitys/tree/main/mod-tehtavat/mod5)
 
 - [Tehtävä 1: 4 p - linkki render sivulle](https://web-kehitys.onrender.com/prime_number/9)
 - [Tehtävä 2: 10 p - linkki render sivulle](https://web-kehitys-1.onrender.com/translate/dog)
@@ -89,7 +89,7 @@ Tehdyt tehtävät:
 **Yhteensä 14p**
 
 
-### Js-moduuli 6
+### Js-moduuli 5
 
 - [Linkki JS-moduulin 5 tehtäviin](https://users.metropolia.fi/~koobes/mod-tehtavat/mod6/)
 - [Linkki JS-moduulin 5 tehtäviin githubissa](https://github.com/Koobe200/Web-kehitys/tree/main/mod-tehtavat/mod6)
