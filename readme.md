@@ -87,3 +87,16 @@ Tehdyt tehtävät:
 - [Tehtävä 2: 10 p - linkki render sivulle](https://web-kehitys-1.onrender.com/translate/dog)
 
 **Yhteensä 14p**
+
+
+### Js-moduuli 6
+
+- [Linkki JS-moduulin 5 tehtäviin](https://users.metropolia.fi/~koobes/mod-tehtavat/mod6/)
+- [Linkki JS-moduulin 5 tehtäviin githubissa](https://github.com/Koobe200/Web-kehitys/tree/main/mod-tehtavat/mod6)
+
+- Tehtävä 1: 2 p
+- Tehtävä 2: 3 p 
+- Tehtävä 3: 7 p
+- Tehtävä 4: 2 p
+
+**Yhteensä 14p**
